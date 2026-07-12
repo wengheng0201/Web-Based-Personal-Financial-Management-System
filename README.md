@@ -72,8 +72,3 @@ database/migrations/        # Users & transactions schema
 resources/views/            # Blade templates
 routes/web.php              # Application routes
 ```
-
-## Author
-
-**Tham Weng Heng**
-Bachelor of Information Systems (Hons) Digital Economy Technology, Universiti Tunku Abdul Rahman
